@@ -1,0 +1,23 @@
+### Hi there 👋
+
+<!--
+**hysticali/hysticali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+Building a web page and setting up servers for hosting.
+- 🌱 I’m currently learning ...
+DevOps, Coding, Virtualization, Ethical Hacking... Many items to learn and currently in training.
+- 👯 I’m looking to collaborate on ...
+Blockchain app development
+- 🤔 I’m looking for help with ...
+A mentor to teach me all things software development.
+- 💬 Ask me about ...
+Cryptocurrency
+- 📫 How to reach me: ...
+Telegram : @Hysticali
+Discord : Hysticali#9745
+- ⚡ Fun fact: ...
+I designed and installed Hydronic Heating under the floors in my house.
+-->
